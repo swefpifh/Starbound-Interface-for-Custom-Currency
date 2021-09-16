@@ -1,0 +1,15 @@
+{
+  "itemName" : "mymoney02",
+  "rarity" : "common",
+  "inventoryIcon" : "mymoney02.png",
+  "description" : "Money. Money. Money.",
+  "shortdescription" : "My Money 02",
+  "currency" : "mymoney02",
+  "value" : 1,
+  // "pickupSoundsSmall" : [ "/sfx/objects/coinstack_small1.ogg" ],
+  // "pickupSoundsMedium" : [ "/sfx/objects/coinstack_medium1.ogg" ],
+  // "pickupSoundsLarge" : [ "/sfx/objects/coinstack_large.ogg" ],
+  "smallStackLimit" : 999,
+  "mediumStackLimit" : 4999,
+  "maxStack" : 99999999
+}

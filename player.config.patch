@@ -1,0 +1,7 @@
+[
+
+{ "op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mymoney01"} },
+{ "op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"mymoney02"} },
+{ "op":"add", "path":"/defaultBlueprints/tier1/-", "value":{"item":"money"} }
+
+]

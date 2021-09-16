@@ -1,0 +1,15 @@
+{
+  "itemName" : "myWallet",
+  "price" : 0,
+  "rarity" : "Rare",
+  "category" : "Currency Storage",
+  "inventoryIcon" : "myWallet.png",
+  "description" : "Watch your custom money here...",
+  "shortdescription" : "My Custom Wallet",
+  
+  "interactive" : true,
+  "interactAction" : "ScriptPane",
+  "interactData" : "/interface/windowconfigCustomWallet/myWalletGui.config",
+  "scripts" : [ "myWalletActiveitem.lua" ],
+  "scriptDelta" : 0
+}

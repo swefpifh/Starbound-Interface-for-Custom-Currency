@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/mymoney01",
+    "value": {
+      "representativeItem": "mymoney01",
+      "playerMax": 10000
+    }
+  },
+  {
+    "op": "add",
+    "path": "/mymoney02",
+    "value": {
+      "representativeItem": "mymoney02",
+      "playerMax": 10000
+    }
+  }
+]
